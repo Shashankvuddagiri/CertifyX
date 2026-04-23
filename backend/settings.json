@@ -163,10 +163,10 @@
     }
   },
   "smtp": {
-    "host": "smtp.gmail.com",
-    "port": "465",
-    "user": "gdgoncampusklhb@gmail.com",
-    "pass": "srkogzsidyfjbpsq"
+    "host": "",
+    "port": "",
+    "user": "",
+    "pass": ""
   },
   "1775750519571-WhatsApp Image 2026-04-09 at 8.05.15 PM.jpeg": {
     "showLogo": false,
